@@ -160,7 +160,12 @@ body {
         width: 100%;
         min-height: 43vh;
     }
-
+    .container .heading{
+        width: 100%;
+    }
+    .content .para{
+        width: 100%;
+    }
     .input {
         padding: 1rem 1rem;
     }
