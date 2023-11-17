@@ -178,10 +178,13 @@ body {
 
     .footer .left {
         width: 90%;
+        padding: 20px 0px;
+        border-bottom: 1px solid #fff;
     }
 
     .footer .right {
         width: 90%;
         text-align: center;
+        
     }
 }
